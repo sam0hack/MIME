@@ -38,7 +38,8 @@ Setting the Content-type in PHP:
 <?php header('Content-type: text/html');?>
 
 
-  Name                                                                              MIME Type / Internet Media Type                                             File Extension   More Details
+  
+    Name                                                                              MIME Type / Internet Media Type                                             File Extension   More Details
   --------------------------------------------------------------------------------- --------------------------------------------------------------------------- ---------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   3D Crossword Plugin                                                               application/vnd.hzn-3d-crossword                                            .x3d             [IANA: 3D Crossword Plugin](http://www.iana.org/assignments/media-types/application/vnd.hzn-3d-crossword "What is a '.x3d' file?")
   3GP                                                                               video/3gpp                                                                  .3gp             [Wikipedia: 3GP](http://en.wikipedia.org/wiki/3GP_and_3G2 "What is a '.3gp' file?")
@@ -269,4 +270,3 @@ Setting the Content-type in PHP:
   HV Voice Dictionary                                                               application/vnd.yamaha.hv-dic                                               .hvd             [IANA: HV Voice Dictionary](http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-dic "What is a '.hvd' file?")
   HV Voice Parameter                                                                application/vnd.yamaha.hv-voice                                             .hvp             [IANA: HV Voice Parameter](http://www.iana.org/assignments/media-types/application/vnd.yamaha.hv-voice "What is a '.hvp' file?")
   Hydrostatix Master Suite                                                          application/vnd.hydrostatix.sof-data                                        .sfd-hdstx       [IANA: Hydrostatix Master Suite](http://ww
-
